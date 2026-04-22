@@ -1,7 +1,7 @@
 -- IpCheck
 local HttpService = game:GetService("HttpService")
 
-local allowedIP = "124.217.23.69"
+local allowedIP = "112.208.77.191"
 
 -- get user's public IP
 local success, userIP = pcall(function()
